@@ -343,11 +343,11 @@ export default class SecurityUserSettingsTab extends React.Component<IProps, ISt
             const ignoreUsersPanel = this.renderIgnoredUsers();
             const invitesPanel = this.renderManageInvites();
             // only show the section if there's something to show
-            if (ignoreUsersPanel || invitesPanel) {
+            if (invitesPanel) {
                 advancedSection = (
                     <SettingsSection heading={_t("common|advanced")}>
-                        {ignoreUsersPanel}
-                        {invitesPanel}
+                        {/* {ignoreUsersPanel} */}
+                        {/* {invitesPanel} */}
                     </SettingsSection>
                 );
             }
@@ -361,10 +361,10 @@ export default class SecurityUserSettingsTab extends React.Component<IProps, ISt
                     {secureBackup}
                     {eventIndex}
                 </SettingsSection>
-                <SettingsSection heading={_t("common|privacy")}>
+                {/* <SettingsSection heading={_t("common|privacy")}>
                     <DiscoverySettings />
                     {posthogSection}
-                </SettingsSection>
+                </SettingsSection> */}
                 {advancedSection}
             </SettingsTab>
         );
