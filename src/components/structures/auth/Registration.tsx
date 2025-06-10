@@ -641,7 +641,7 @@ export default class Registration extends React.Component<IProps, IState> {
             // <AccessibleButton kind="link" className="mx_AuthBody_changeFlow" onClick={this.onLoginClick}>
             //     {_t("auth|sign_in_instead_prompt")}
             // </AccessibleButton>
-             <span>{_t(
+            <span>{_t(
                 "auth|sign_in_instead_prompt",
                 {},
                 {
@@ -762,8 +762,9 @@ export default class Registration extends React.Component<IProps, IState> {
                         {this.renderRegisterComponent()}
                     </div>
                     <div className="mx_Register_footerActions">
-                        {goBack}
-                        {signIn}
+                        <AccessibleButton kind="link" onClick={this.onLoginClick}>
+                            {_t("auth|sign_in_instead")}
+                        </AccessibleButton>
                     </div>
                 </Fragment>
             );
