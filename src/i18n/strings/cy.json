@@ -1741,7 +1741,7 @@
         "restricted": "Cyfyngedig"
     },
     "powered_by_matrix": "Wedi'i bweru gan Matrix",
-    "powered_by_matrix_with_logo": "Sgwrs ddatganoledig, wedi'i hamgryptio &amp; cydweithrediad wedi'i bweru gan $matrixLogo",
+    "powered_by_matrix_with_logo": "Sgwrs ddatganoledig, wedi'i hamgryptio &amp; cydweithrediad wedi'i bweru gan ",
     "presence": {
         "away": "I ffwrdd",
         "busy": "Prysur",

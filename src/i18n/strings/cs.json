@@ -1754,7 +1754,7 @@
         "restricted": "Omezené"
     },
     "powered_by_matrix": "Běží na Matrixu",
-    "powered_by_matrix_with_logo": "Decentralizovaný, šifrovaný chat a spolupráce na platformě $matrixLogo",
+    "powered_by_matrix_with_logo": "Decentralizovaný, šifrovaný chat a spolupráce na platformě",
     "presence": {
         "away": "Pryč",
         "busy": "Zaneprázdněný",
