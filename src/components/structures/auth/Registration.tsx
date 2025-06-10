@@ -97,10 +97,10 @@ interface IState {
     // the user in to their new account automatically.
     completedNoSignin: boolean;
     flows:
-        | {
-              stages: string[];
-          }[]
-        | null;
+    | {
+        stages: string[];
+    }[]
+    | null;
     // We perform liveliness checks later, but for now suppress the errors.
     // We also track the server dead errors independently of the regular errors so
     // that we can render it differently, and override any other error the user may
@@ -638,18 +638,23 @@ export default class Registration extends React.Component<IProps, IState> {
         }
 
         const signIn = (
-            <span className="mx_AuthBody_changeFlow">
-                {_t(
-                    "auth|sign_in_instead_prompt",
-                    {},
-                    {
-                        a: (sub) => (
-                            <AccessibleButton kind="link_inline" onClick={this.onLoginClick}>
-                                {sub}
-                            </AccessibleButton>
-                        ),
-                    },
-                )}
+            // <AccessibleButton kind="link" className="mx_AuthBody_changeFlow" onClick={this.onLoginClick}>
+            //     {_t("auth|sign_in_instead_prompt")}
+            // </AccessibleButton>
+             <span>{_t(
+                "auth|sign_in_instead_prompt",
+                {},
+                {
+                    a: (sub) => (
+                        <AccessibleButton
+                            kind="link_inline"
+                            onClick={this.onLoginClick}
+                        >
+                            {sub}
+                        </AccessibleButton>
+                    ),
+                },
+            )}
             </span>
         );
 

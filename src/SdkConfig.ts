@@ -38,22 +38,22 @@ export const DEFAULTS: DeepReadonly<IConfigOptions> = {
         available: true,
         // eslint-disable-next-line @typescript-eslint/no-require-imports
         logo: require("../res/img/element-desktop-logo.svg").default,
-        url: "https://connect.vietsmile.com.vn/get-started",
+        url: "https://chat.vietsmile.com.vn/#/welcome",
     },
 
     desktop_builds: {
         available: true,
         logo: "vector-icons/1024.png",
-        url: "https://element.io/download",
-        url_macos: "https://packages.element.io/desktop/install/macos/Element.dmg",
-        url_win64: "https://packages.element.io/desktop/install/win32/x64/Element%20Setup.exe",
-        url_win64arm: "https://packages.element.io/desktop/install/win32/arm64/Element%20Setup.exe",
-        url_linux: "https://element.io/download#linux",
+        url: "#",
+        url_macos: "#",
+        url_win64: "#",
+        url_win64arm: "#",
+        url_linux: "#",
     },
     mobile_builds: {
-        ios: "https://apps.apple.com/app/vector/id1083446067",
-        android: "https://play.google.com/store/apps/details?id=im.vector.app",
-        fdroid: "https://f-droid.org/repository/browse/?fdid=im.vector.app",
+        ios: "#",
+        android: "#",
+        fdroid: "#",
     },
 };
 

@@ -1751,7 +1751,7 @@
         "restricted": "Restricted"
     },
     "powered_by_matrix": "Powered by Matrix",
-    "powered_by_matrix_with_logo": "Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo",
+    "powered_by_matrix_with_logo": "Decentralised, encrypted chat &amp; collaboration",
     "presence": {
         "away": "Away",
         "busy": "Busy",
