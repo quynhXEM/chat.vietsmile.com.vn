@@ -28,7 +28,7 @@ const AuthFooter = (): ReactElement => {
 
     return (
         <footer className="mx_AuthFooter" role="contentinfo">
-            <a href="https://socjsc.com" style={{ cursor: "default"}} target="_blank" rel="noreferrer noopener">Copyright © <span  style={{ color: "white", cursor: "pointer" }}>SOC JSC</span></a>
+            <a href="http://vietsmile.com.vn/" style={{ cursor: "default"}} target="_blank" rel="noreferrer noopener">Copyright © <span  style={{ color: "white", cursor: "pointer" }}>VietSmile</span></a>
         </footer>
     );
 };
