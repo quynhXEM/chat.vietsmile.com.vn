@@ -139,7 +139,7 @@ const setupCompleted = (async (): Promise<string | void> => {
             document.body.classList.add(`theme-${theme.replace(" ", "_")}`);
         }
 
-        // Set this up as early as possible because Element will be hitting it almost immediately.
+        // Set this up as early as possible because VietSmile Connectwill be hitting it almost immediately.
         let widgetApiReady: Promise<void> | undefined;
         if (parentUrl && widgetId) {
             const parentOrigin = new URL(qsParam("parentUrl")).origin;
@@ -355,7 +355,7 @@ function closeConference(): void {
     }
 }
 
-// Converts from IETF language tags used by Element (en-US) to the format used
+// Converts from IETF language tags used by VietSmile Connect(en-US) to the format used
 // by Jitsi (enUS)
 function normalizeLanguage(language: string): string {
     const [lang, variant] = language.replace("_", "-").split("-");
@@ -368,7 +368,7 @@ function normalizeLanguage(language: string): string {
 }
 
 function mapLanguage(language: string): string {
-    // Element and Jitsi don't agree how to interpret en, so we go with Elements
+    // VietSmile Connectand Jitsi don't agree how to interpret en, so we go with Elements
     // interpretation to stay consistent
     switch (language) {
         case "en":

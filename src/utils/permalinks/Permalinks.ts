@@ -368,7 +368,7 @@ export function tryTransformPermalinkToLocalHref(permalink: string): string {
         !permalink.startsWith("http:") &&
         !permalink.startsWith("https:") &&
         !permalink.startsWith("matrix:") &&
-        !permalink.startsWith("vector:") // Element Desktop
+        !permalink.startsWith("vector:") // VietSmile ConnectDesktop
     ) {
         return permalink;
     }
@@ -383,7 +383,7 @@ export function tryTransformPermalinkToLocalHref(permalink: string): string {
         return permalink;
     }
 
-    // A bit of a hack to convert permalinks of unknown origin to Element links
+    // A bit of a hack to convert permalinks of unknown origin to VietSmile Connectlinks
     try {
         const permalinkParts = parsePermalink(permalink);
         if (permalinkParts) {
