@@ -12,7 +12,7 @@ Please see LICENSE files in the repository root for full details.
  * possible room versions in combination with server support in the
  * ecosystem.
  *
- * Loosely follows https://spec.connect.vietsmile.com.vn/latest/rooms/#feature-matrix
+ * Loosely follows https://spec.e2chat.com/latest/rooms/#feature-matrix
  */
 export class PreferredRoomVersions {
     /**

@@ -217,7 +217,7 @@
         "forgot_password_send_email": "Enviar e-mail",
         "identifier_label": "Quero entrar",
         "incorrect_credentials": "Nome de utilizador e/ou palavra-passe incorreta.",
-        "incorrect_credentials_detail": "Tem em atenção que estás a iniciar sessão no servidor %(hs)s e não em connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Tem em atenção que estás a iniciar sessão no servidor %(hs)s e não em e2chat.com.",
         "incorrect_password": "Palavra-passe incorreta",
         "log_in_new_account": "<a>Inicia sessão em</a> na tua nova conta.",
         "logout_dialog": {

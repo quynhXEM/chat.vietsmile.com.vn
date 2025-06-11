@@ -189,7 +189,7 @@
         "forgot_password_send_email": "Senda tölvupóst",
         "identifier_label": "Skrá inn með",
         "incorrect_credentials": "Rangt notandanafn og/eða lykilorð.",
-        "incorrect_credentials_detail": "Athugaðu að þú ert að skrá þig inn á %(hs)s þjóninn, ekki inn á connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Athugaðu að þú ert að skrá þig inn á %(hs)s þjóninn, ekki inn á e2chat.com.",
         "incorrect_password": "Rangt lykilorð",
         "log_in_new_account": "<a>Skráðu þig inn</a> í nýja notandaaðganginn þinn.",
         "logout_dialog": {
@@ -318,7 +318,7 @@
         "github_issue": "Villutilkynning á GitHub",
         "introduction": "Ef þú hefur tilkynnt vandamál í gegnum GitHub, þá geta atvikaskrár hjálpað okkur við að finna ástæður vandamálanna. ",
         "logs_sent": "Sendi atvikaskrár",
-        "matrix_security_issue": "Til að tilkynna Matrix-tengd öryggisvandamál, skaltu lesa <a>Security Disclosure Policy</a> á connect.vietsmile.com.vn.",
+        "matrix_security_issue": "Til að tilkynna Matrix-tengd öryggisvandamál, skaltu lesa <a>Security Disclosure Policy</a> á e2chat.com.",
         "preparing_download": "Undirbý niðurhal atvikaskráa",
         "preparing_logs": "Undirbý sendingu atvikaskráa",
         "send_logs": "Senda atvikaskrá",

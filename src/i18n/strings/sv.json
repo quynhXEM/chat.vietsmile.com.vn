@@ -230,7 +230,7 @@
         "forgot_password_send_email": "Skicka e-brev",
         "identifier_label": "Logga in med",
         "incorrect_credentials": "Fel användarnamn och/eller lösenord.",
-        "incorrect_credentials_detail": "Observera att du loggar in på servern %(hs)s, inte connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Observera att du loggar in på servern %(hs)s, inte e2chat.com.",
         "incorrect_password": "Felaktigt lösenord",
         "log_in_new_account": "<a>Logga in</a> i ditt nya konto.",
         "logout_dialog": {

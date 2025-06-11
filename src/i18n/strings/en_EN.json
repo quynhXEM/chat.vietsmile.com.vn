@@ -231,7 +231,7 @@
         "forgot_password_send_email": "Send email",
         "identifier_label": "Sign in with",
         "incorrect_credentials": "Incorrect username and/or password.",
-        "incorrect_credentials_detail": "Please note you are logging into the %(hs)s server, not connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Please note you are logging into the %(hs)s server, not e2chat.com.",
         "incorrect_password": "Incorrect password",
         "log_in_new_account": "<a>Log in</a> to your new account.",
         "logout_dialog": {

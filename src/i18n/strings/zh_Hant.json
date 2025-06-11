@@ -206,7 +206,7 @@
         "forgot_password_send_email": "寄信",
         "identifier_label": "登入使用",
         "incorrect_credentials": "使用者名稱和／或密碼不正確。",
-        "incorrect_credentials_detail": "請注意，您正在登入 %(hs)s 伺服器，不是 connect.vietsmile.com.vn。",
+        "incorrect_credentials_detail": "請注意，您正在登入 %(hs)s 伺服器，不是 e2chat.com。",
         "incorrect_password": "不正確的密碼",
         "log_in_new_account": "<a>登入</a>到您的新帳號。",
         "logout_dialog": {

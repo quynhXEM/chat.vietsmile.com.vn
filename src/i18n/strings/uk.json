@@ -232,7 +232,7 @@
         "forgot_password_send_email": "Надіслати електронний лист",
         "identifier_label": "Увійти за допомогою",
         "incorrect_credentials": "Хибне користувацьке ім'я й/або пароль.",
-        "incorrect_credentials_detail": "Зауважте, ви входите на сервер %(hs)s, не на connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Зауважте, ви входите на сервер %(hs)s, не на e2chat.com.",
         "incorrect_password": "Неправильний пароль",
         "log_in_new_account": "<a>Увійти</a> до нового облікового запису.",
         "logout_dialog": {

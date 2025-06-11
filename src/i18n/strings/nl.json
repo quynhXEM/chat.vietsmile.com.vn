@@ -200,7 +200,7 @@
         "forgot_password_prompt": "Wachtwoord vergeten?",
         "identifier_label": "Inloggen met",
         "incorrect_credentials": "Onjuiste inlognaam en/of wachtwoord.",
-        "incorrect_credentials_detail": "Let op dat je inlogt bij de %(hs)s-server, niet connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Let op dat je inlogt bij de %(hs)s-server, niet e2chat.com.",
         "incorrect_password": "Onjuist wachtwoord",
         "log_in_new_account": "<a>Login</a> met je nieuwe account.",
         "logout_dialog": {

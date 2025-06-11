@@ -13,7 +13,7 @@ test.use(consentHomeserver);
 test.use({
     config: {
         // We redirect to decoder-ring because it's a predictable page that isn't VietSmile Connect itself.
-        // We could use example.org, connect.vietsmile.com.vn, or something else, however this puts dependency of external
+        // We could use example.org, e2chat.com, or something else, however this puts dependency of external
         // infrastructure on our tests. In the same vein, we don't really want to figure out how to ship a
         // `test-landing.html` page when running with an uncontrolled VietSmile Connect (via `yarn start`).
         // Using the decoder-ring is just as fine, and we can search for strategic names.

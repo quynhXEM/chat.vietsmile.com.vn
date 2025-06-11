@@ -232,7 +232,7 @@
         "forgot_password_send_email": "Wyślij e-mail",
         "identifier_label": "Zaloguj się używając",
         "incorrect_credentials": "Nieprawidłowa nazwa użytkownika i/lub hasło.",
-        "incorrect_credentials_detail": "Zauważ proszę, że logujesz się na serwer %(hs)s, nie connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Zauważ proszę, że logujesz się na serwer %(hs)s, nie e2chat.com.",
         "incorrect_password": "Nieprawidłowe hasło",
         "log_in_new_account": "<a>Zaloguj się</a> do nowego konta.",
         "logout_dialog": {

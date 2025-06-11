@@ -203,7 +203,7 @@
         "forgot_password_send_email": "Enviar email",
         "identifier_label": "Iniciar sesión con",
         "incorrect_credentials": "Nombre de usuario y/o contraseña incorrectos.",
-        "incorrect_credentials_detail": "Por favor, ten en cuenta que estás iniciando sesión en el servidor %(hs)s, y no en connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Por favor, ten en cuenta que estás iniciando sesión en el servidor %(hs)s, y no en e2chat.com.",
         "incorrect_password": "Contraseña incorrecta",
         "log_in_new_account": "<a>Inicie sesión</a> en su nueva cuenta.",
         "logout_dialog": {

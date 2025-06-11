@@ -221,7 +221,7 @@
         "forgot_password_send_email": "Отправить электронное письмо",
         "identifier_label": "Войти с помощью",
         "incorrect_credentials": "Неверное имя пользователя и/или пароль.",
-        "incorrect_credentials_detail": "Обратите внимание, что вы заходите на сервер %(hs)s, а не на connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Обратите внимание, что вы заходите на сервер %(hs)s, а не на e2chat.com.",
         "incorrect_password": "Неверный пароль",
         "log_in_new_account": "<a>Войти</a> в новую учётную запись.",
         "logout_dialog": {

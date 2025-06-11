@@ -167,7 +167,7 @@ export default class ServerPickerDialog extends React.PureComponent<IProps, ISta
 
     public render(): React.ReactNode {
         let text: string | undefined;
-        if (this.defaultServer.hsName === "connect.vietsmile.com.vn") {
+        if (this.defaultServer.hsName === "e2chat.com") {
             text = _t("auth|server_picker_description_connect.vietsmile.com.vn");
         }
 
@@ -236,7 +236,7 @@ export default class ServerPickerDialog extends React.PureComponent<IProps, ISta
 
                     <h2>{_t("action|learn_more")}</h2>
                     <ExternalLink
-                        href="https://connect.vietsmile.com.vn/docs/matrix-concepts/elements-of-matrix/#homeserver"
+                        href="https://e2chat.com/docs/matrix-concepts/elements-of-matrix/#homeserver"
                         target="_blank"
                         rel="noreferrer noopener"
                     >

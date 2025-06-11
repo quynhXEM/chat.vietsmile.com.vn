@@ -20,7 +20,7 @@ const BRIDGE_EVENT_TYPES = [
     // m.bridge
 ];
 
-const BRIDGES_LINK = "https://connect.vietsmile.com.vn/bridges/";
+const BRIDGES_LINK = "https://e2chat.com/bridges/";
 
 interface IProps {
     room: Room;

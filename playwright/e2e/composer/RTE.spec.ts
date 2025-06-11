@@ -225,7 +225,7 @@ test.describe("Composer", () => {
                 // Open link modal
                 await page.getByRole("button", { name: "Link" }).click();
                 // Fill the link field
-                await page.getByRole("textbox", { name: "Link" }).pressSequentially("https://connect.vietsmile.com.vn/");
+                await page.getByRole("textbox", { name: "Link" }).pressSequentially("https://e2chat.com/");
                 // Click on save
                 await page.getByRole("button", { name: "Save" }).click();
                 // Send the message
@@ -235,7 +235,7 @@ test.describe("Composer", () => {
                 await expect(page.locator(".mx_EventTile_body a").getByText("my message 0")).toBeVisible();
                 await expect(page.locator(".mx_EventTile_body a")).toHaveAttribute(
                     "href",
-                    new RegExp("https://connect.vietsmile.com.vn/"),
+                    new RegExp("https://e2chat.com/"),
                 );
             });
         });

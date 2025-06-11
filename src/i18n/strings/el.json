@@ -194,7 +194,7 @@
         "forgot_password_prompt": "Ξεχάσετε τον κωδικό σας;",
         "identifier_label": "Συνδεθείτε με",
         "incorrect_credentials": "Λανθασμένο όνομα χρήστη και/ή κωδικός.",
-        "incorrect_credentials_detail": "Σημειώστε ότι συνδέεστε στον διακομιστή %(hs)s, όχι στο connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Σημειώστε ότι συνδέεστε στον διακομιστή %(hs)s, όχι στο e2chat.com.",
         "incorrect_password": "Λανθασμένος κωδικός πρόσβασης",
         "log_in_new_account": "<a>Συνδεθείτε</a> στον νέο σας λογαριασμό.",
         "logout_dialog": {

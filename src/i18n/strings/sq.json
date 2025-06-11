@@ -200,7 +200,7 @@
         "forgot_password_send_email": "Dërgo email",
         "identifier_label": "Hyni me",
         "incorrect_credentials": "Emër përdoruesi dhe/ose fjalëkalim i pasaktë.",
-        "incorrect_credentials_detail": "Ju lutemi, kini parasysh se jeni futur te shërbyesi %(hs)s, jo te connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Ju lutemi, kini parasysh se jeni futur te shërbyesi %(hs)s, jo te e2chat.com.",
         "incorrect_password": "Fjalëkalim i pasaktë",
         "log_in_new_account": "<a>Bëni hyrjen</a> te llogaria juaj e re.",
         "logout_dialog": {

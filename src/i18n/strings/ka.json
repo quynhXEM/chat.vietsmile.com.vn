@@ -193,7 +193,7 @@
         "forgot_password_send_email": "ელ.ფოსტის გაგზავნა",
         "identifier_label": "შედით სისტემაში",
         "incorrect_credentials": "არასწორი მომხმარებლის სახელი და/ან პაროლი.",
-        "incorrect_credentials_detail": "გთხოვთ გაითვალისწინოთ, რომ შედიხართ%(hs)s სერვერი და არა connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "გთხოვთ გაითვალისწინოთ, რომ შედიხართ%(hs)s სერვერი და არა e2chat.com.",
         "incorrect_password": "არასწორი პაროლი",
         "log_in_new_account": "<a>შესვლა</a> თქვენს ახალ ანგარიშზე.",
         "logout_dialog": {

@@ -229,7 +229,7 @@
         "forgot_password_send_email": "Kirim email",
         "identifier_label": "Masuk dengan",
         "incorrect_credentials": "Username dan/atau kata sandi salah.",
-        "incorrect_credentials_detail": "Mohon dicatat Anda akan masuk ke server %(hs)s, bukan connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Mohon dicatat Anda akan masuk ke server %(hs)s, bukan e2chat.com.",
         "incorrect_password": "Kata sandi salah",
         "log_in_new_account": "<a>Masuk</a> ke akun yang baru.",
         "logout_dialog": {

@@ -201,7 +201,7 @@
         "forgot_password_send_email": "Gửi thư",
         "identifier_label": "Đăng nhập với",
         "incorrect_credentials": "Tên người dùng và/hoặc mật khẩu không chính xác.",
-        "incorrect_credentials_detail": "Xin lưu ý rằng bạn đang đăng nhập vào máy chủ %(hs)s, không phải connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Xin lưu ý rằng bạn đang đăng nhập vào máy chủ %(hs)s, không phải e2chat.com.",
         "incorrect_password": "mật khẩu không đúng",
         "log_in_new_account": "<a>Sign in</a> để vào tài khoản mới của bạn.",
         "logout_dialog": {

@@ -319,7 +319,7 @@ export class DecryptionFailureTracker {
         this.baseProperties = baseProperties;
 
         this.userDomain = client.getDomain() ?? undefined;
-        if (this.userDomain === "connect.vietsmile.com.vn") {
+        if (this.userDomain === "e2chat.com") {
             baseProperties.isMatrixDotOrg = true;
         } else if (this.userDomain !== undefined) {
             baseProperties.isMatrixDotOrg = false;

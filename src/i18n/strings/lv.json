@@ -215,7 +215,7 @@
         "forgot_password_send_email": "Nosūtīt e-pasta ziņu",
         "identifier_label": "Pieteikties ar",
         "incorrect_credentials": "Nepareizs lietotājvārds un/vai parole.",
-        "incorrect_credentials_detail": "Lūdzu, ņemiet vērā, ka jūs piesakāties %(hs)s serverī, nevis connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Lūdzu, ņemiet vērā, ka jūs piesakāties %(hs)s serverī, nevis e2chat.com.",
         "incorrect_password": "Nepareiza parole",
         "log_in_new_account": "<a>Pieteikties</a> jaunajā kontā.",
         "logout_dialog": {

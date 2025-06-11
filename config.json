@@ -1,8 +1,8 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://connect.vietsmile.com.vn",
-            "server_name": "connect.vietsmile.com.vn"
+            "base_url": "https://e2chat.com",
+            "server_name": "e2chat.com"
         },
         "m.identity_server": {}
     },
@@ -19,7 +19,7 @@
     "default_federate": true,
     "default_theme": "dark",
     "room_directory": {
-        "servers": ["connect.vietsmile.com.vn"]
+        "servers": ["e2chat.com"]
     },
     "enable_presence_by_hs_url": {
         "https://matrix.org": false,

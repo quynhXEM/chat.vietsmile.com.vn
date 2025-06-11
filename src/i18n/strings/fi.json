@@ -216,7 +216,7 @@
         "forgot_password_send_email": "Lähetä sähköpostia",
         "identifier_label": "Tunnistus",
         "incorrect_credentials": "Virheellinen käyttäjätunnus ja/tai salasana.",
-        "incorrect_credentials_detail": "Huomaa että olet kirjautumassa palvelimelle %(hs)s, etkä palvelimelle connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Huomaa että olet kirjautumassa palvelimelle %(hs)s, etkä palvelimelle e2chat.com.",
         "incorrect_password": "Virheellinen salasana",
         "log_in_new_account": "<a>Kirjaudu</a> uudelle tilillesi.",
         "logout_dialog": {

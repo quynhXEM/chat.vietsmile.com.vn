@@ -211,7 +211,7 @@ export default class HelpUserSettingsTab extends React.Component<EmptyObject, IS
                             {},
                             {
                                 a: (sub) => (
-                                    <ExternalLink href="https://connect.vietsmile.com.vn/security-disclosure-policy/">
+                                    <ExternalLink href="https://e2chat.com/security-disclosure-policy/">
                                         {sub}
                                     </ExternalLink>
                                 ),

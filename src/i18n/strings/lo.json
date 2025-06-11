@@ -185,7 +185,7 @@
         "forgot_password_prompt": "ລືມລະຫັດຜ່ານຂອງທ່ານບໍ?",
         "identifier_label": "ເຂົ້າສູ່ລະບົບດ້ວຍ",
         "incorrect_credentials": "ຊື່ຜູ້ໃຊ້ ແລະ/ຫຼືລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ.",
-        "incorrect_credentials_detail": "ກະລຸນາຮັບຊາບວ່າທ່ານກຳລັງເຂົ້າສູ່ລະບົບເຊີບເວີ %(hs)s, ບໍ່ແມ່ນ connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "ກະລຸນາຮັບຊາບວ່າທ່ານກຳລັງເຂົ້າສູ່ລະບົບເຊີບເວີ %(hs)s, ບໍ່ແມ່ນ e2chat.com.",
         "incorrect_password": "ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ",
         "log_in_new_account": "<a>ເຂົ້າສູ່ລະບົບ</a> ບັນຊີໃໝ່ຂອງທ່ານ.",
         "logout_dialog": {

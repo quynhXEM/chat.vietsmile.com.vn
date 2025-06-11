@@ -188,7 +188,7 @@
         "forgot_password_prompt": "¿Esqueceches o contrasinal?",
         "identifier_label": "Acceder con",
         "incorrect_credentials": "Nome de usuaria ou contrasinal non válidos.",
-        "incorrect_credentials_detail": "Ten en conta que estás accedendo ao servidor %(hs)s, non a connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Ten en conta que estás accedendo ao servidor %(hs)s, non a e2chat.com.",
         "incorrect_password": "Contrasinal incorrecto",
         "log_in_new_account": "<a>Accede</a> usando a conta nova.",
         "logout_dialog": {

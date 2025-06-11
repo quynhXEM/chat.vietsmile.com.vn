@@ -231,7 +231,7 @@
         "forgot_password_send_email": "Saada e-kiri",
         "identifier_label": "Logi sisse oma kasutajaga",
         "incorrect_credentials": "Vigane kasutajanimi ja/või salasõna.",
-        "incorrect_credentials_detail": "Sa kasutad sisselogimiseks serverit %(hs)s, mitte aga connect.vietsmile.com.vn'i.",
+        "incorrect_credentials_detail": "Sa kasutad sisselogimiseks serverit %(hs)s, mitte aga e2chat.com'i.",
         "incorrect_password": "Vale salasõna",
         "log_in_new_account": "<a>Logi sisse</a> oma uuele kasutajakontole.",
         "logout_dialog": {

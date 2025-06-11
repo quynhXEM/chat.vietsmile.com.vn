@@ -231,7 +231,7 @@
         "forgot_password_send_email": "E-mail küldése",
         "identifier_label": "Bejelentkezés ezzel:",
         "incorrect_credentials": "Helytelen felhasználónév vagy jelszó.",
-        "incorrect_credentials_detail": "Vegye figyelembe, hogy a(z) %(hs)s kiszolgálóra jelentkezik be, és nem a connect.vietsmile.com.vn-ra.",
+        "incorrect_credentials_detail": "Vegye figyelembe, hogy a(z) %(hs)s kiszolgálóra jelentkezik be, és nem a e2chat.com-ra.",
         "incorrect_password": "Helytelen jelszó",
         "log_in_new_account": "<a>Belépés</a> az új fiókjába.",
         "logout_dialog": {
@@ -340,7 +340,7 @@
         "server_picker_intro": "Matrix-kiszolgálóknak nevezzük azokat a helyeket, ahol fiókot lehet létrehozni.",
         "server_picker_invalid_url": "Érvénytelen webcím",
         "server_picker_learn_more": "A Matrix-kiszolgálókról",
-        "server_picker_connect.vietsmile.com.vn": "A connect.vietsmile.com.vn a legnagyobb nyilvános Matrix-kiszolgáló a világon, és sok felhasználónak megfelelő választás.",
+        "server_picker_connect.vietsmile.com.vn": "A e2chat.com a legnagyobb nyilvános Matrix-kiszolgáló a világon, és sok felhasználónak megfelelő választás.",
         "server_picker_required": "Matrix-kiszolgáló megadása",
         "server_picker_title": "Bejelentkezés a Matrix-kiszolgálójába",
         "server_picker_title_default": "Kiszolgálóbeállítások",

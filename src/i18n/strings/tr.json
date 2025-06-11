@@ -216,7 +216,7 @@
         "forgot_password_send_email": "E-posta gönder",
         "identifier_label": "Şununla oturum açın:",
         "incorrect_credentials": "Yanlış kullanıcı adı ve / veya şifre.",
-        "incorrect_credentials_detail": "Lütfen %(hs)s sunucusuna oturum açtığınızın farkında olun. Bu sunucu connect.vietsmile.com.vn değil.",
+        "incorrect_credentials_detail": "Lütfen %(hs)s sunucusuna oturum açtığınızın farkında olun. Bu sunucu e2chat.com değil.",
         "incorrect_password": "Yanlış Şifre",
         "log_in_new_account": "Yeni hesabınızla <a>Oturum aç</a>ın.",
         "logout_dialog": {

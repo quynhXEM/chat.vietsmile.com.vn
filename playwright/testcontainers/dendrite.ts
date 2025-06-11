@@ -36,7 +36,7 @@ const DEFAULT_CONFIG = {
         },
         report_stats: {
             enabled: false,
-            endpoint: "https://connect.vietsmile.com.vn/report-usage-stats/push",
+            endpoint: "https://e2chat.com/report-usage-stats/push",
         },
         server_notices: {
             enabled: false,
@@ -94,7 +94,7 @@ const DEFAULT_CONFIG = {
         disable_http_keepalives: false,
         key_perspectives: [
             {
-                server_name: "connect.vietsmile.com.vn",
+                server_name: "e2chat.com",
                 keys: [
                     {
                         key_id: "ed25519:auto",

@@ -233,7 +233,7 @@
         "forgot_password_send_email": "Odeslat e-mail",
         "identifier_label": "Přihlásit se pomocí",
         "incorrect_credentials": "Nesprávné uživatelské jméno nebo heslo.",
-        "incorrect_credentials_detail": "Právě se přihlašujete na server %(hs)s, a nikoliv na server connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Právě se přihlašujete na server %(hs)s, a nikoliv na server e2chat.com.",
         "incorrect_password": "Nesprávné heslo",
         "log_in_new_account": "<a>Přihlaste se</a> svým novým účtem.",
         "logout_dialog": {

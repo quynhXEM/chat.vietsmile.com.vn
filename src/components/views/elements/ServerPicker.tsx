@@ -78,7 +78,7 @@ const ServerPicker: React.FC<IProps> = ({ title, dialogTitle, serverConfig, onSe
     }
 
     let desc;
-    if (serverConfig.hsName === "connect.vietsmile.com.vn") {
+    if (serverConfig.hsName === "e2chat.com") {
         desc = <span className="mx_ServerPicker_desc">{_t("auth|server_picker_description_connect.vietsmile.com.vn")}</span>;
     }
 

@@ -199,7 +199,7 @@ test.describe("Spotlight", () => {
 
         await page
             .locator(".mx_GenericDropdownMenu_Option--header")
-            .filter({ hasText: "connect.vietsmile.com.vn" })
+            .filter({ hasText: "e2chat.com" })
             .locator("..")
             .locator("[role=menuitemradio]")
             .click();

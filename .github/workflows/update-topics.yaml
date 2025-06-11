@@ -26,8 +26,8 @@ jobs:
               env:
                   HS_URL: ${{ secrets.BETABOT_HS_URL }}
                   LOBBY_ROOM_ID: ${{ secrets.ROOM_ID }}
-                  PUBLIC_ROOM_ID: "!YTvKGNlinIzlkMTVRl:connect.vietsmile.com.vn"
-                  ANNOUNCEMENT_ROOM_ID: "!bijaLdadorKgNGtHdA:connect.vietsmile.com.vn"
+                  PUBLIC_ROOM_ID: "!YTvKGNlinIzlkMTVRl:e2chat.com"
+                  ANNOUNCEMENT_ROOM_ID: "!bijaLdadorKgNGtHdA:e2chat.com"
                   TOKEN: ${{ secrets.BETABOT_ACCESS_TOKEN }}
                   RELEASE_STATUS: "Release status: ${{ inputs.expected_status }} expected ${{ inputs.expected_date }}"
               with:

@@ -231,7 +231,7 @@
         "forgot_password_send_email": "Send e-post",
         "identifier_label": "Logg inn med",
         "incorrect_credentials": "Feil brukernavn og/eller passord.",
-        "incorrect_credentials_detail": "Vær oppmerksom på at du logger på %(hs)s-serveren, ikke connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Vær oppmerksom på at du logger på %(hs)s-serveren, ikke e2chat.com.",
         "incorrect_password": "Feil passord",
         "log_in_new_account": "<a>Logg på</a> din nye konto.",
         "logout_dialog": {

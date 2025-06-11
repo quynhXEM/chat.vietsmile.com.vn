@@ -155,7 +155,7 @@
         "forgot_password_prompt": "Pamiršote savo slaptažodį?",
         "identifier_label": "Prisijungti naudojant",
         "incorrect_credentials": "Neteisingas vartotojo vardas ir/arba slaptažodis.",
-        "incorrect_credentials_detail": "Atkreipkite dėmesį, kad jūs jungiatės prie %(hs)s serverio, o ne connect.vietsmile.com.vn.",
+        "incorrect_credentials_detail": "Atkreipkite dėmesį, kad jūs jungiatės prie %(hs)s serverio, o ne e2chat.com.",
         "incorrect_password": "Neteisingas slaptažodis",
         "log_in_new_account": "<a>Prisijunkite</a> prie naujos paskyros.",
         "logout_dialog": {
